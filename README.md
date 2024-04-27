@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/misaeljoelp/four-cards-colors)
-- Live Site URL: [Add live site URL here]()
+- Live Site URL: [Github pages](https://misaeljoelp.github.io/four-cards-colors/)
 
 ## My process
 

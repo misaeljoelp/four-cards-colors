@@ -8,6 +8,7 @@
     --VeryDarkBlue: hsl(234, 12%, 34%);
     --GrayishBlue: hsl(229, 6%, 66%);
     --VeryLightGray: hsl(0, 0%, 98%);
+    --VeryLightGray1: white;
 }
 *{
     margin: 0;
@@ -19,7 +20,7 @@ body{
     font-size: 15px;
     color: var(--VeryDarkBlue);
     background-color: var(--VeryLightGray);
-    margin: 85px 30px;
+    margin: 81px 30px;
 }
 /***************************header******************/
 header{
@@ -35,9 +36,6 @@ header h2{
     font-size: 1.6em;
     animation: rightleft 1000ms;
 }
-header h3{
-    font-size: 1.4em;
-}
 header p{
     font-size: 1.05em;
     color: var(--GrayishBlue);
@@ -52,7 +50,7 @@ header p{
 .cards{
 
     border-radius: 8px;
-    background-color: var(--VeryLightGray);
+    background-color: var(--VeryLightGray1);
     box-shadow: 3px 10px 10px var(--GrayishBlue);
     margin-bottom: 30px;
     min-width: 310px;
@@ -84,6 +82,9 @@ header p{
     font-size: 0.89em;
     margin-bottom: 30px;
 
+}
+.content h3{
+    font-size: 1.4em;
 }
 .image{
     text-align: right;

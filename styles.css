@@ -81,10 +81,12 @@ header p{
     color: var(--GrayishBlue);
     font-size: 0.89em;
     margin-bottom: 30px;
+    line-height: 1.7em;
 
 }
 .content h3{
-    font-size: 1.4em;
+    font-size: 1.2em;
+    margin-bottom: 5px;
 }
 .image{
     text-align: right;
